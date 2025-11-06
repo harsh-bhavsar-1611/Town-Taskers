@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / backup files
+__pycache__/
+*.pyc
+*~
+*.bak
+template/
+
+# Environment
+VE/
+
+# SQLite database file
+town_taskers.sql
+# For other database types, the database files are usually not in the project folder.
+
+# Media and static files
+# These should be generated on the server during deployment, not committed to git.
+media/
+
+
+# Secret key and local settings (if applicable)
+# It's a good practice to manage sensitive information (like the SECRET_KEY) via environment variables or a separate, ignored settings file.
+settings.py
+
+# Migrations
+# Django migrations are part of the codebase and should be committed to the repository.
+# Do not add /migrations/ to .gitignore.
+
