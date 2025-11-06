@@ -19,6 +19,8 @@ media/
 # Secret key and local settings (if applicable)
 # It's a good practice to manage sensitive information (like the SECRET_KEY) via environment variables or a separate, ignored settings file.
 settings.py
+Town_Taskers\static\user\plugins\google-map\map.js
+googleMapAPI.txt
 
 # Migrations
 # Django migrations are part of the codebase and should be committed to the repository.
