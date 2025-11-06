@@ -16,7 +16,6 @@ town_taskers.sql
 # These should be generated on the server during deployment, not committed to git.
 media/
 
-
 # Secret key and local settings (if applicable)
 # It's a good practice to manage sensitive information (like the SECRET_KEY) via environment variables or a separate, ignored settings file.
 settings.py
